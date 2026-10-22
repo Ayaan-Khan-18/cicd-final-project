@@ -1,9 +1,11 @@
-# DevOps Capstone Template
+# CI/CD Final Project - Accounts Microservice
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
-This repository contains the starter code for the project in [**IBM-CD0285EN-SkillsNetwork DevOps Capstone Project**](https://www.coursera.org/learn/devops-capstone-project?specialization=devops-and-software-engineering) which is part of the [**IBM DevOps and Software Engineering Professional Certificate**](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
+**Project Name:** Accounts Service CI/CD Pipeline  
+**Course:** IBM Continuous Integration and Continuous Delivery (CI/CD)  
+**Description:** This repository contains the sample microservice application and configuration files for setting up automated CI/CD pipelines using GitHub Actions, Tekton tasks and pipelines, and Red Hat OpenShift.
 
 ## Usage
 
