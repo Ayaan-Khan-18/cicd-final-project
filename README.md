@@ -3,7 +3,8 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
-**Project Name:** Accounts Service CI/CD Pipeline  
+**Project Name:** Accounts Service CI/CD Pipeline
+**Repository:** cicd-final-project  
 **Course:** IBM Continuous Integration and Continuous Delivery (CI/CD)  
 **Description:** This repository contains the sample microservice application and configuration files for setting up automated CI/CD pipelines using GitHub Actions, Tekton tasks and pipelines, and Red Hat OpenShift.
 
